@@ -77,8 +77,74 @@
 ---
 ---
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.7%20million%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 34.0 kB Used in GitHub's Storage 
+ > 
+> 🏆 7 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 27 Public Repositories 
+ > 
+> 🔑 22 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2417 commits        ██████████░░░░░░░░░░░░░░░   38.53 % 
+🌆 Daytime                1581 commits        ██████░░░░░░░░░░░░░░░░░░░   25.20 % 
+🌃 Evening                77 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+🌙 Night                  2198 commits        █████████░░░░░░░░░░░░░░░░   35.04 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   400 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.38 % 
+Tuesday                  723 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Wednesday                814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.98 % 
+Thursday                 1738 commits        ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+Friday                   1320 commits        █████░░░░░░░░░░░░░░░░░░░░   21.04 % 
+Saturday                 1022 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.29 % 
+Sunday                   256 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+```
 
 
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in Python** 
+
+```text
+Python                   32 repos            ████████░░░░░░░░░░░░░░░░░   33.68 % 
+JavaScript               18 repos            █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
+TypeScript               6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
+Swift                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
+
+
+ Last Updated on 18/02/2025 12:04:56 UTC
 <!--END_SECTION:waka-->
 ---
 
