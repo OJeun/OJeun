@@ -73,11 +73,14 @@
 </p>
 
 ---
----
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
+## 📊 GitHub Stats
+<!--START_SECTION:waka-->
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.2%20million%20lines%20of%20code-blue)
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojeun&show_icons=true&locale=en&layout=compact" alt="ojeun" />
+</p>
+
 
 **🐱 My GitHub Data** 
 
@@ -109,20 +112,6 @@ Saturday                 1050 commits        ████░░░░░░░�
 Sunday                   283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -135,25 +124,7 @@ C#                       2 repos             █░░░░░░░░░░�
 
 
 
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
-
-
  Last Updated on 27/03/2025 00:54:00 UTC
 <!--END_SECTION:waka-->
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ojeun" alt="ojeun" />
-  </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojeun&show_icons=true&locale=en&layout=compact" alt="ojeun" />
-</p>
 
 
