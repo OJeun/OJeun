@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julie</h1>
-<h3 align="center">I am a passionate junior developer</h3>
+<h3 align="center">I'm an enthusiastic junior developer eager to learn and grow.</h3>
 
-- 🔭 I’m currently working on [MealPlanIQ](https://bcit-fall-2024.uc.r.appspot.com/static/)
-
-- 💬 Ask me about **MySQL and architecture**
+- 🔭 I’m currently working on mealPlanIQ(https://mealplaniq.com)
 
 - 📫 How to reach me **ohjeoung5224@gmail.com**
 
@@ -87,8 +85,6 @@
  > 
 > 🏆 36 Contributions in the Year 2025
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 27 Public Repositories 
  > 
 > 🔑 22 Private Repositories 
@@ -160,10 +156,4 @@ C#                       2 repos             █░░░░░░░░░░�
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ojeun&show_icons=true&locale=en&layout=compact" alt="ojeun" />
 </p>
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ojeun&show_icons=true&locale=en" alt="ojeun" />
-</p>
 
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=ojeun" alt="ojeun" />
-</p>
