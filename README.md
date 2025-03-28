@@ -82,8 +82,6 @@
 
 > 📦 40.8 kB Used in GitHub's Storage 
  > 
-> 🚫 Not Opted to Hire
- > 
 > 📜 31 Public Repositories 
  > 
 > 🔑 21 Private Repositories 
@@ -108,20 +106,6 @@ Saturday                 1095 commits        ████░░░░░░░�
 Sunday                   283 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.11 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -131,12 +115,6 @@ TypeScript               6 repos             ██░░░░░░░░░�
 Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
 C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
  Last Updated on 28/03/2025 00:54:30 UTC
