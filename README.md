@@ -11,10 +11,10 @@
 
 ### 🖥 Languages
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/> Java &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/> JavaScript &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/> TypeScript &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/> Python &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/> HTML5 &nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/> CSS3
 </p>
@@ -24,9 +24,7 @@
 ### 🌐 Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="30" height="30"/> React &nbsp;&nbsp;
-  <img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="30" height="30"/> React Native &nbsp;&nbsp;
   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="30" height="30"/> Angular &nbsp;&nbsp;
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="30" height="30"/> Tailwind CSS
 </p>
 
 ---
@@ -41,10 +39,10 @@
 
 ### 🗄 Databases
 <p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="30" height="30"/> Redis &nbsp;&nbsp;
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="30" height="30"/> SQLite &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="30" height="30"/> MongoDB &nbsp;&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="30" height="30"/> MySQL
+
 </p>
 
 ---
@@ -115,16 +113,6 @@ Sunday                   377 commits         █░░░░░░░░░░�
 
 📊 **This Week I Spent My Time On** 
 
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
 
 **I Mostly Code in Python** 
 
@@ -140,7 +128,6 @@ C#                       2 repos             █░░░░░░░░░░�
 
 **Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
  Last Updated on 07/07/2025 00:54:32 UTC
