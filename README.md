@@ -82,6 +82,8 @@
 
 > 📦 43.8 kB Used in GitHub's Storage 
  > 
+> 🏆 548 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -139,7 +141,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2025 00:54:17 UTC
+ Last Updated on 03/08/2025 00:55:27 UTC
 <!--END_SECTION:waka-->
 
 
