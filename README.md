@@ -110,20 +110,6 @@ Saturday                 1289 commits        ████░░░░░░░�
 Sunday                   379 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
 ```
 
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -133,13 +119,6 @@ TypeScript               6 repos             ██░░░░░░░░░�
 Swift                    3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 C#                       2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 ```
-
-
-
-**Timeline**
-
-![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
-
 
  Last Updated on 03/09/2025 00:54:23 UTC
 <!--END_SECTION:waka-->
