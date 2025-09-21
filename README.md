@@ -74,6 +74,8 @@
 
 ## 📊 GitHub Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -88,6 +90,40 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                3346 commits        ██████████░░░░░░░░░░░░░░░   39.05 % 
+🌆 Daytime                1791 commits        █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
+🌃 Evening                300 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 % 
+🌙 Night                  3132 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   513 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
+Tuesday                  1058 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.35 % 
+Wednesday                1299 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Thursday                 2174 commits        ██████░░░░░░░░░░░░░░░░░░░   25.37 % 
+Friday                   1769 commits        █████░░░░░░░░░░░░░░░░░░░░   20.64 % 
+Saturday                 1351 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Sunday                   405 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.73 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -105,7 +141,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2025 00:55:21 UTC
+ Last Updated on 21/09/2025 00:54:47 UTC
 <!--END_SECTION:waka-->
 
 
