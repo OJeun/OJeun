@@ -74,15 +74,13 @@
 
 ## 📊 GitHub Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.4%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 44.1 kB Used in GitHub's Storage 
  > 
-> 🏆 824 Contributions in the Year 2025
+> 🏆 831 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,40 +88,6 @@
  > 
 > 🔑 20 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                3425 commits        ██████████░░░░░░░░░░░░░░░   39.23 % 
-🌆 Daytime                1808 commits        █████░░░░░░░░░░░░░░░░░░░░   20.71 % 
-🌃 Evening                303 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
-🌙 Night                  3194 commits        █████████░░░░░░░░░░░░░░░░   36.59 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   520 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-Tuesday                  1091 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
-Wednesday                1346 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-Thursday                 2208 commits        ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
-Friday                   1799 commits        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Saturday                 1360 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.58 % 
-Sunday                   406 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -141,7 +105,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2025 00:55:35 UTC
+ Last Updated on 03/10/2025 00:55:28 UTC
 <!--END_SECTION:waka-->
 
 
