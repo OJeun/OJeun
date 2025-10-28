@@ -141,7 +141,7 @@ C#                       2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 27/10/2025 00:55:22 UTC
+ Last Updated on 28/10/2025 00:55:46 UTC
 <!--END_SECTION:waka-->
 
 
