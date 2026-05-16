@@ -74,11 +74,13 @@
 
 ## 📊 GitHub Stats
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.34%20million%20lines%20of%20code-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.09%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 45.3 kB Used in GitHub's Storage 
+> 📦 45.4 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -88,6 +90,40 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                8483 commits        ██████░░░░░░░░░░░░░░░░░░░   24.18 % 
+🌆 Daytime                9166 commits        ███████░░░░░░░░░░░░░░░░░░   26.12 % 
+🌃 Evening                4443 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
+🌙 Night                  12996 commits       █████████░░░░░░░░░░░░░░░░   37.04 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   4818 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Tuesday                  5110 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Wednesday                4845 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
+Thursday                 6817 commits        █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
+Friday                   10039 commits       ███████░░░░░░░░░░░░░░░░░░   28.61 % 
+Saturday                 1999 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+Sunday                   1460 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -105,7 +141,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 01:54:29 UTC
+ Last Updated on 16/05/2026 01:46:03 UTC
 <!--END_SECTION:waka-->
 
 
