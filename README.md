@@ -80,7 +80,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 45.6 kB Used in GitHub's Storage 
+> 📦 45.7 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -141,7 +141,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2026 02:03:54 UTC
+ Last Updated on 21/06/2026 02:12:16 UTC
 <!--END_SECTION:waka-->
 
 
