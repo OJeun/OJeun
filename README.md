@@ -93,19 +93,19 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12098 commits       ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+🌞 Morning                12106 commits       ███████░░░░░░░░░░░░░░░░░░   26.72 % 
 🌆 Daytime                12650 commits       ███████░░░░░░░░░░░░░░░░░░   27.93 % 
 🌃 Evening                5888 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.00 % 
-🌙 Night                  14650 commits       ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌙 Night                  14655 commits       ████████░░░░░░░░░░░░░░░░░   32.35 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5192 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Tuesday                  6400 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Wednesday                6590 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
-Thursday                 10335 commits       ██████░░░░░░░░░░░░░░░░░░░   22.82 % 
-Friday                   11529 commits       ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+Monday                   5193 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
+Tuesday                  6402 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Wednesday                6595 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Thursday                 10340 commits       ██████░░░░░░░░░░░░░░░░░░░   22.83 % 
+Friday                   11529 commits       ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 Saturday                 2607 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.76 % 
 Sunday                   2633 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
@@ -147,7 +147,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 03:20:47 UTC
+ Last Updated on 11/08/2026 03:20:44 UTC
 <!--END_SECTION:waka-->
 
 
