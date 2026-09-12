@@ -93,21 +93,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                12843 commits       ███████░░░░░░░░░░░░░░░░░░   27.39 % 
-🌆 Daytime                13093 commits       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
-🌃 Evening                6018 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-🌙 Night                  14937 commits       ████████░░░░░░░░░░░░░░░░░   31.85 % 
+🌞 Morning                12859 commits       ███████░░░░░░░░░░░░░░░░░░   27.40 % 
+🌆 Daytime                13102 commits       ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+🌃 Evening                6021 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+🌙 Night                  14945 commits       ████████░░░░░░░░░░░░░░░░░   31.85 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5279 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-Tuesday                  6761 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
-Wednesday                6907 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Thursday                 10948 commits       ██████░░░░░░░░░░░░░░░░░░░   23.35 % 
-Friday                   11610 commits       ██████░░░░░░░░░░░░░░░░░░░   24.76 % 
-Saturday                 2630 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
-Sunday                   2756 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Monday                   5280 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.25 % 
+Tuesday                  6767 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.42 % 
+Wednesday                6913 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
+Thursday                 10963 commits       ██████░░░░░░░░░░░░░░░░░░░   23.36 % 
+Friday                   11614 commits       ██████░░░░░░░░░░░░░░░░░░░   24.75 % 
+Saturday                 2631 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Sunday                   2759 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -147,7 +147,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 05:46:58 UTC
+ Last Updated on 12/09/2026 05:41:37 UTC
 <!--END_SECTION:waka-->
 
 
