@@ -76,7 +76,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.93%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-19.95%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -93,21 +93,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13255 commits       ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌆 Daytime                13377 commits       ███████░░░░░░░░░░░░░░░░░░   27.80 % 
-🌃 Evening                6320 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
-🌙 Night                  15165 commits       ████████░░░░░░░░░░░░░░░░░   31.52 % 
+🌞 Morning                13273 commits       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌆 Daytime                13406 commits       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌃 Evening                6345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+🌙 Night                  15178 commits       ████████░░░░░░░░░░░░░░░░░   31.49 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5348 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Tuesday                  7180 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Wednesday                7086 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.73 % 
-Thursday                 11336 commits       ██████░░░░░░░░░░░░░░░░░░░   23.56 % 
-Friday                   11698 commits       ██████░░░░░░░░░░░░░░░░░░░   24.31 % 
-Saturday                 2636 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.48 % 
-Sunday                   2833 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Monday                   5347 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Tuesday                  7193 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
+Wednesday                7111 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 11378 commits       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
+Friday                   11700 commits       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
+Saturday                 2636 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Sunday                   2837 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 
 
@@ -147,7 +147,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 07:13:26 UTC
+ Last Updated on 08/10/2026 07:18:56 UTC
 <!--END_SECTION:waka-->
 
 
