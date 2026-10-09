@@ -82,8 +82,6 @@
 
 > 📦 46.1 kB Used in GitHub's Storage 
  > 
-> 🏆 11 Contributions in the Year 2026
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 31 Public Repositories 
@@ -93,21 +91,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13273 commits       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
-🌆 Daytime                13406 commits       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
-🌃 Evening                6345 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
-🌙 Night                  15178 commits       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+🌞 Morning                13293 commits       ███████░░░░░░░░░░░░░░░░░░   27.54 % 
+🌆 Daytime                13423 commits       ███████░░░░░░░░░░░░░░░░░░   27.81 % 
+🌃 Evening                6361 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+🌙 Night                  15189 commits       ████████░░░░░░░░░░░░░░░░░   31.47 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5347 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Tuesday                  7193 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.92 % 
-Wednesday                7111 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Thursday                 11378 commits       ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Friday                   11700 commits       ██████░░░░░░░░░░░░░░░░░░░   24.27 % 
-Saturday                 2636 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
-Sunday                   2837 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
+Monday                   5350 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
+Tuesday                  7213 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
+Wednesday                7119 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Thursday                 11402 commits       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+Friday                   11705 commits       ██████░░░░░░░░░░░░░░░░░░░   24.25 % 
+Saturday                 2636 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Sunday                   2841 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
 ```
 
 
@@ -147,7 +145,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 08/10/2026 07:18:56 UTC
+ Last Updated on 09/10/2026 07:24:14 UTC
 <!--END_SECTION:waka-->
 
 
