@@ -80,7 +80,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 46.1 kB Used in GitHub's Storage 
+> 📦 46.2 kB Used in GitHub's Storage 
  > 
 > 🏆 11 Contributions in the Year 2026
  > 
@@ -94,7 +94,7 @@
 
 ```text
 🌞 Morning                13399 commits       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
-🌆 Daytime                13434 commits       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
+🌆 Daytime                13436 commits       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 🌃 Evening                6383 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
 🌙 Night                  15237 commits       ████████░░░░░░░░░░░░░░░░░   31.45 % 
 ```
@@ -106,7 +106,7 @@ Tuesday                  7240 commits        ████░░░░░░░�
 Wednesday                7160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Thursday                 11445 commits       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
 Friday                   11745 commits       ██████░░░░░░░░░░░░░░░░░░░   24.24 % 
-Saturday                 2645 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
+Saturday                 2647 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.46 % 
 Sunday                   2845 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
@@ -147,7 +147,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 10/10/2026 07:05:29 UTC
+ Last Updated on 11/10/2026 07:00:55 UTC
 <!--END_SECTION:waka-->
 
 
