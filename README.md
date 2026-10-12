@@ -96,12 +96,12 @@
 🌞 Morning                13399 commits       ███████░░░░░░░░░░░░░░░░░░   27.65 % 
 🌆 Daytime                13436 commits       ███████░░░░░░░░░░░░░░░░░░   27.73 % 
 🌃 Evening                6383 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.17 % 
-🌙 Night                  15237 commits       ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  15238 commits       ████████░░░░░░░░░░░░░░░░░   31.45 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5373 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+Monday                   5374 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
 Tuesday                  7240 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.94 % 
 Wednesday                7160 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
 Thursday                 11445 commits       ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
@@ -147,7 +147,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 07:00:55 UTC
+ Last Updated on 12/10/2026 07:10:41 UTC
 <!--END_SECTION:waka-->
 
 
