@@ -93,21 +93,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                13429 commits       ███████░░░░░░░░░░░░░░░░░░   27.66 % 
-🌆 Daytime                13455 commits       ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-🌃 Evening                6407 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.20 % 
-🌙 Night                  15253 commits       ████████░░░░░░░░░░░░░░░░░   31.42 % 
+🌞 Morning                13444 commits       ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+🌆 Daytime                13465 commits       ███████░░░░░░░░░░░░░░░░░░   27.71 % 
+🌃 Evening                6422 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+🌙 Night                  15262 commits       ████████░░░░░░░░░░░░░░░░░   31.41 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   5377 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.08 % 
-Tuesday                  7270 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
-Wednesday                7172 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-Thursday                 11476 commits       ██████░░░░░░░░░░░░░░░░░░░   23.64 % 
-Friday                   11751 commits       ██████░░░░░░░░░░░░░░░░░░░   24.21 % 
+Monday                   5379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Tuesday                  7288 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+Wednesday                7178 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+Thursday                 11492 commits       ██████░░░░░░░░░░░░░░░░░░░   23.65 % 
+Friday                   11755 commits       ██████░░░░░░░░░░░░░░░░░░░   24.19 % 
 Saturday                 2647 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
-Sunday                   2851 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
+Sunday                   2854 commits        █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
 ```
 
 
@@ -147,7 +147,7 @@ C#                       2 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/OJeun/OJeun/main/assets/bar_graph.png)
 
 
- Last Updated on 13/10/2026 07:52:22 UTC
+ Last Updated on 14/10/2026 06:08:37 UTC
 <!--END_SECTION:waka-->
 
 
